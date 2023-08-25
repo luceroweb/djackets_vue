@@ -1,14 +1,19 @@
-# Djackets | Django
+# djackets_vue
 
-Learn how to build an e-commerce website using Django and Vue
+## Project setup
+```
+npm install
+```
 
-This repository is a part of a video tutorial on the Code With Stein YouTube channel
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-Code With Stein channel:
-[CodeWithStein](https://www.youtube.com/channel/UCfVoYvY8BfTDeF63JQmQJvg/?sub_confirmation=1)
+### Compiles and minifies for production
+```
+npm run build
+```
 
-## Author
-
-This repository and video is created using the video from CodeWithStein. Check out my his for more information.
-
-[Code With Stein - Website](https://codewithstein.com)
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
